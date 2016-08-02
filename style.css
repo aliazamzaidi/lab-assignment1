@@ -1,0 +1,68 @@
+body{
+    background-image: url('images/bg-image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.white-part{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 7%;
+    background-color: white;
+    padding-top: 2ex;
+    border: 0px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+.inline{
+    display: inline;
+}
+.favicon{
+    width: 20px;
+    height: 20px;
+}
+.float-right{
+    float: right;
+    padding-right: 5px;
+}
+.image1{
+  width: 90%;
+  height: 240px;
+  margin-left: 5%;
+}
+.main{
+  padding: 1em;
+}
+.image2{
+    width: 25%;
+    height: 180px;
+    background-image: url("images/resort-inside.jpg");
+    float: left;
+    margin: 1ex;
+    margin-left: 14ex;
+}
+.clear{
+  margin: 0;
+  padding: 0;
+  clear: both;
+}
+.image3{
+    width: 25%;
+    height: 180px;
+    background-image: url("images/resort-inside2.jpg");
+    float: left;
+    margin: 1ex;
+    margin-left: 28ex;
+}
+.favicon:hover{
+    height: 26px;
+    width: 26px;
+}
+.text-in-image{
+   display: inline;
+}
+.image2:hover{
+    height: 250px;
+}
+.image3:hover{
+    height: 250px
+}
